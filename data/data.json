@@ -1,6 +1,6 @@
-{
-    "albums": [{
-    "name": "5FDP",
+
+{"albums":
+    [{ "name": "5FDP",
     "shortname": "thewayofthefist",
     "albumname" : "The Way of the Fist",
     "summary": "The Way of the Fist is the debut studio album by American heavy metal band Five Finger Death Punch, released on July 31, 2007. The album sold 3,800 copies in its first week of release. The Way of the Fist made its Billboard 200 debut on August 18, 2007 at No. 199 and peaked at No. 107. It has been certified gold for selling in excess of 500,000 copies as of April 1, 2010. This is the band's only release with guitarist Darrell Roberts.",
@@ -27,7 +27,7 @@
     "albumAM": "https://itunes.apple.com/us/album/speak-now/399727924",
     "albumSM": "https://open.spotify.com/album/5EpMjweRD573ASl7uNiHym"
 },
-    "name": "5FDP",
+    {"name": "5FDP",
     "shortname": "thewayofthefist",
     "albumname" : "The Way of the Fist",
     "summary": "The Way of the Fist is the debut studio album by American heavy metal band Five Finger Death Punch, released on July 31, 2007. The album sold 3,800 copies in its first week of release. The Way of the Fist made its Billboard 200 debut on August 18, 2007 at No. 199 and peaked at No. 107. It has been certified gold for selling in excess of 500,000 copies as of April 1, 2010. This is the band's only release with guitarist Darrell Roberts.",
