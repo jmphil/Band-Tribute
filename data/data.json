@@ -1,7 +1,16 @@
 {
-
-
-
-
-    
+    "albums": [{
+    "name": "5FDP",
+    "shortname": "speaknow",
+    "albumname" : "Speak Now",
+    "summary": "Speak Now is the third studio album by American singer-songwriter Taylor Swift. It was released on October 25, 2010, by Big Machine Records. Production for the album took place during 2009 to 2010 at several recording studios, and was handled by Swift and Nathan Chapman. Written entirely by Swift as the follow-up to Fearless, Speak Now expands on the country pop style of her previous work, and features lyrical themes including love, romance and heartbreak. Speak Now debuted at number one on the U.S. Billboard 200 chart, giving Swift her second consecutive chart-topper in the U.S. Its first-week sales of 1,047,000 copies was the fifth-biggest debut in history for a female artist, the third biggest ever by a country album (the first being Swift's own Red album later released in 2012), the biggest in five and a half years, and the biggest first week sales of 2010.",
+    "artwork" : ["speaknow_ts.png"],
+    "tracklist": "1. Mine<br>2. Sparks Fly<br>3. Back to December<br>4. Speak Now<br>5. Dear John<br>6. Mean<br>7. The Story of Us<br>8. Never Grow Up<br>9. Enchanted<br>10. Better Than Revenge<br>11. Innocent<br>12. Haunted<br>13. Last Kiss<br>14. Long Live",
+    "albumAM": "https://itunes.apple.com/us/album/speak-now/399727924",
+    "albumSM": "https://open.spotify.com/album/5EpMjweRD573ASl7uNiHym"
+}],
+ 
+ 
+ 
+ 
 }
